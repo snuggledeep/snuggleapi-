@@ -5,3 +5,4 @@ pyspark
 matplotlib
 arch
 scipy
+ipykernel
